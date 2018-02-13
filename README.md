@@ -2,6 +2,7 @@
 - docker `Version 17.12.0-ce-mac49 (21995)`
 - node `8.9.4-alpine`
 - jest `22.2.2`
+- yarn `1.3.2` (included in `node:8.9.4-alpine`)
 
 # How to run
 
