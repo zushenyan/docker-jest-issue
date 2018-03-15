@@ -1,5 +1,5 @@
 # Solution
-See https://github.com/zushenyan/docker-jest-issue/tree/successful_build for detail.
+See [this branch](https://github.com/zushenyan/docker-jest-issue/tree/successful_build) for detail.
 
 # Environment
 - docker `Version 17.12.0-ce-mac49 (21995)`
