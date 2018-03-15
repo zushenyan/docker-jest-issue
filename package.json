@@ -5,8 +5,7 @@
   "author": "Andrew Yan <zushenyan@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test-watch": "jest --watch",
-    "test-watch-all": "jest --watchAll"
+    "test-watch": "jest --watch"
   },
   "devDependencies": {
     "jest": "^22.2.2"
